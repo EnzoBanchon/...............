@@ -1,0 +1,46 @@
+{
+    "$schema": "./banda.schema.json",
+    "group": "Aladino",
+    "foundation_year": "1979-05-15",
+    "web": "https://www.instagram.com/aladinoecuador/?hl=es",
+    "email": "enzo.banchon@alumnos.upm.es",
+    "description": "Más conocido como Aladino el Mago de la Rockola, o simplemente Aladino, es un cantante de rockola ecuatoriano, quien también se ha desempeñado como actor y presentador de televisión.",
+    "members": [
+        { 
+            "name": "Billy Balseca",
+            "age": 68
+        },
+        { 
+            "name": "Naldo Campos",
+            "age": 74
+        },
+        { 
+            "name": "Roberto Calero",
+            "age": 78
+        }
+    ],
+    "albums": [
+        { 
+            "name": "Con clase A",   
+            "year": "2021",
+            "songs": [
+                {
+                    "nombre": "Penas",
+                    "length": "4:14",
+                    "hit": "true"
+                },
+                {
+                    "nombre": "Mujer Bolera",
+                    "length": "2:53",
+                    "hit": "true"
+                }
+            ]
+        }
+    ],
+    "concerts": [
+        "Italia", 
+        "Venezuela", 
+        "Colombia", 
+        "Perú"
+    ]
+}
